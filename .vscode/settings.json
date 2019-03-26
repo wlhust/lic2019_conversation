@@ -1,0 +1,4 @@
+{
+    "python.venvPath": "~/.virtualenvs/py3",
+    "python.pythonPath": "~/.virtualenvs/py3/bin/python3.6"
+}
